@@ -16,9 +16,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-            <service.name>SharedLibrary</service.name>
-            <version.phase>${version.update.enable}</version.phase>
-            <service.version>${SharedLibrary.version}</service.version>
+
     </properties>
 
 </project>
